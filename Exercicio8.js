@@ -1,2 +1,2 @@
-const listaDeCompras = ['arroz','feijão','batata']
+const listaDeCompras = ['arroz','feijão','batata', 'ovo']
 console.log(listaDeCompras)
